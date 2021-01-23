@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -22,12 +12,12 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 650,
+		"price": 2500,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "foggyrain",
-		"price": 300,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -37,7 +27,7 @@
 	},
 	{
 		"abr": "drythunderstorm",
-		"price": 450,
+		"price": 1,
 		"karmatype": "Bad"
 	},
 	{
@@ -57,12 +47,12 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 750,
+		"price": 2006,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "flashstorm",
-		"price": 400,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -77,7 +67,7 @@
 	},
 	{
 		"abr": "shortcircuit",
-		"price": 500,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
@@ -106,17 +96,17 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "refugeechased",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "animaltame",
 		"price": 150,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "resourcepodcrash",
+		"abr": "wandererjoins",
+		"price": 51500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "Frachtcrash",
 		"price": 300,
 		"karmatype": "Good"
 	},
@@ -136,23 +126,13 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "inspiration",
-		"price": 150,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "meteor",
-		"price": 150,
+		"price": 801,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "madanimal",
-		"price": 200,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -178,11 +158,6 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wildman",
-		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -237,12 +212,12 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 5001,
 		"karmatype": "Bad"
 	},
 	{
@@ -252,7 +227,7 @@
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 4002,
 		"karmatype": "Bad"
 	},
 	{
@@ -282,7 +257,7 @@
 	},
 	{
 		"abr": "disease",
-		"price": 1000,
+		"price": 10000,
 		"karmatype": "Bad"
 	},
 	{
@@ -292,11 +267,11 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1500,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "gambleskill",
+		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
 	},
@@ -326,10 +301,20 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "berescued",
-		"price": 900,
+		"abr": "randominspire",
+		"price": 450,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 63
 }
